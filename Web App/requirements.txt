@@ -1,4 +1,4 @@
 streamlit
-catboost
 pandas
-numpy
+numpy<2
+catboost
