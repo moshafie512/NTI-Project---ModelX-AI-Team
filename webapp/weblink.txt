@@ -1,0 +1,1 @@
+https://salary-prediction-ml-project.streamlit.app/
