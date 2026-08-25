@@ -1,4 +1,0 @@
-streamlit
-pandas
-numpy<2
-catboost
