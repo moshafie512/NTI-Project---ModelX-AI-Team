@@ -118,6 +118,11 @@ NTI-Project---ModelX-AI-Team/
 │   ├── model_metadata.json                     # Feature schema used by the app
 │   ├── requirements.txt                        # Python dependencies
 │   └── weblink.txt                             # Link to the deployed app
+
+│├── images/
+│    ├── Dashboard-Screenshot.png
+│    ├── Webapp-Screenshot1.png
+│    └── Webapp-Screenshot2.png
 │
 ├── job_ai_project.pbix                       # Power BI dashboard (Comparing models' results)
 └── README.md
