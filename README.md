@@ -62,7 +62,6 @@ The dashboard can be used to compare:
   <img src="images/Dashboard-Screenshot.png" alt="Power BI Dashboard" width="900">
 </p>
 
----
 
 ## 🖥️ Web Application
 
@@ -77,7 +76,7 @@ The selected model can be used through a **Streamlit web application**, where us
   <br><br>
   <img src="images/Webapp-Screenshot2.png" alt="Salary Prediction Web App" width="900">
 </p>
----
+
 
 ## 🛠️ Tech Stack
 
