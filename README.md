@@ -58,9 +58,9 @@ The dashboard can be used to compare:
 
 ### Dashboard Preview
 
-```markdown
-![Power BI Dashboard](images/Dashboard-Screenshot.png)
-```
+<p align="center">
+  <img src="images/Dashboard-Screenshot.png" alt="Power BI Dashboard" width="900">
+</p>
 
 ---
 
@@ -72,11 +72,11 @@ The selected model can be used through a **Streamlit web application**, where us
 
 ### Web App Preview
 
-```markdown
-![Salary Prediction Web App](images/Webapp-Screenshot1.png)
-![Salary Prediction Web App](images/Webapp-Screenshot2.png)
-```
-
+<p align="center">
+  <img src="images/Webapp-Screenshot1.png" alt="Salary Prediction Web App" width="900">
+  <br><br>
+  <img src="images/Webapp-Screenshot2.png" alt="Salary Prediction Web App" width="900">
+</p>
 ---
 
 ## 🛠️ Tech Stack
@@ -119,10 +119,10 @@ NTI-Project---ModelX-AI-Team/
 │   ├── requirements.txt                        # Python dependencies
 │   └── weblink.txt                             # Link to the deployed app
 
-│├── images/
-│    ├── Dashboard-Screenshot.png
-│    ├── Webapp-Screenshot1.png
-│    └── Webapp-Screenshot2.png
+├── images/
+│   ├── Dashboard-Screenshot.png
+│   ├── Webapp-Screenshot1.png
+│   └── Webapp-Screenshot2.png
 │
 ├── job_ai_project.pbix                       # Power BI dashboard (Comparing models' results)
 └── README.md
